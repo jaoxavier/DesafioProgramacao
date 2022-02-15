@@ -1,2 +1,3 @@
 # DesafioProgramacao
-Github para o desafio de programação
+
+![](https://capgemini.proway.com.br/assets/img/logo-capgemini.png)
