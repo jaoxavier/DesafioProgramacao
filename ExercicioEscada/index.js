@@ -1,4 +1,4 @@
-let tamEscada = 6 // Aqui definimos o tamanho da escada
+let tamEscada = prompt("Qual tamanho da escada?") // Aqui definimos o tamanho da escada
 
 for (let i = 0; i < tamEscada; i++) {
     for (let j = 0; j < tamEscada; j++) {
