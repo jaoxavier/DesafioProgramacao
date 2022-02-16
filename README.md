@@ -1,6 +1,6 @@
 # Desafio Programação Capgemini
 
-![center](https://capgemini.proway.com.br/assets/img/logo-capgemini.png)
+![logoCapgemini](https://capgemini.proway.com.br/assets/img/logo-capgemini.png)
 
 ##### Nesse documento, veremos informações sobre as soluções dos desafios propostos pela Capgemini.
 
@@ -13,5 +13,5 @@ ________________________________________________________________________
 
 > ### __Como realizar os testes__
 > Cada pasta possui um arquivo index.html, onde a resposta do código será rodada
-> 
+
 
